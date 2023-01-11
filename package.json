@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "tsc *.ts --outDir build",
+    "start": "node romanNumeral.js"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
